@@ -1,5 +1,5 @@
 <?php
-
+// Comentario sin sentido
 echo "Hola mundo";
 
 $nombre = "Hector";
